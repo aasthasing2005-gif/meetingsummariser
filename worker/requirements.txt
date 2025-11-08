@@ -1,0 +1,9 @@
+openai
+pymongo
+sentence-transformers
+numpy
+librosa
+opencv-python
+easyocr
+torch
+whisperx
